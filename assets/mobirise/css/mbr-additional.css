@@ -1417,14 +1417,24 @@ body {
   box-shadow: none !important;
 }
 .cid-rwVdIt7Juf {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  padding-top: 105px;
+  padding-bottom: 105px;
+  background-image: url("../../../assets/images/gambo-nona-abg-mohd-version-2-2000x1956.jpg");
+}
+.cid-rwVdIt7Juf H3 {
+  color: #17799b;
+}
+.cid-rwVdIt7Juf H1 {
+  color: #232323;
+}
+.cid-rwVdIt7Juf .mbr-text,
+.cid-rwVdIt7Juf .mbr-section-btn {
+  color: #232323;
 }
 .cid-rwV1PYuhjJ {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #f9f295;
+  padding-bottom: 45px;
+  background-color: #da95f9;
 }
 .cid-rwV1PYuhjJ H1 {
   color: #232323;
@@ -1437,15 +1447,15 @@ body {
   color: #073b4c;
 }
 .cid-rwUYPZp1RW {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-color: #da95f9;
 }
 .cid-rwUYPZp1RW div.b {
   padding-top: 2rem;
 }
 .cid-rwUYPZp1RW .mbr-text {
-  color: #767676;
+  color: #ffffff;
   margin: 0;
   padding-top: 1.5rem;
 }
@@ -1454,7 +1464,7 @@ body {
   border-radius: 3px;
 }
 .cid-rwUYPZp1RW .google-map {
-  height: 25rem;
+  height: 26rem;
   position: relative;
 }
 .cid-rwUYPZp1RW .google-map iframe {
@@ -1493,7 +1503,7 @@ body {
 .cid-rwUYANZ9SR {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f295;
+  background-color: #da95f9;
 }
 .cid-rwUYANZ9SR .mbr-section-subtitle {
   color: #232323;
