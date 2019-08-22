@@ -1462,11 +1462,10 @@ body {
 }
 .cid-rzQJ93kTIo {
   background: #da95f9;
-  padding-top: 45px;
-  padding-bottom: 0px;
 }
 .cid-rzQJ93kTIo .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rzQJ93kTIo figcaption {
   position: relative;
